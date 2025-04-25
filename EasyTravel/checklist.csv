@@ -1,0 +1,43 @@
+Item,Status,Category
+Passport,Completed,
+Flight Tickets,Completed,
+Hotel Booking,Completed,
+Travel Insurance,Completed,
+Local Currency,Completed,
+Money,Completed,
+passport,Completed,
+shoes,Completed,
+bag,Completed,
+Travel Suit,Completed,
+Camera,Completed,
+Passport / Visa (if required),Completed,General Travel Essentials
+Flight tickets / Train tickets / Bus tickets,Pending,General Travel Essentials
+Hotel reservations / Booking confirmation,Pending,General Travel Essentials
+Travel insurance documents,Pending,General Travel Essentials
+Emergency contact list,Pending,General Travel Essentials
+Hotel booking details,Pending,Accommodation & Stay
+Airbnb / Homestay details,Pending,Accommodation & Stay
+"Local transport options (Uber, rental cars, etc.)",Pending,Accommodation & Stay
+Debit/Credit Cards,Pending,Money & Finance
+Cash (Local & Foreign Currency),Pending,Money & Finance
+Budget tracker for expenses,Pending,Money & Finance
+Weather-appropriate clothes,Pending,Packing List
+Comfortable shoes / Sandals,Pending,Packing List
+Swimwear (if needed),Pending,Packing List
+Sunglasses / Hat,Pending,Packing List
+Medicines & Prescriptions,Pending,Health & Safety
+First-aid kit,Pending,Health & Safety
+Sanitizer & Face masks,Completed,Health & Safety
+Mobile phone & Charger,Pending,Gadgets
+Power bank,Pending,Gadgets
+Camera (if required),Completed,Gadgets
+Snacks & Drinks,Pending,Food & Snacks
+Water bottle,Pending,Food & Snacks
+Special dietary food (if needed),Pending,Food & Snacks
+List of places to visit,Pending,Trip Itinerary & Documents
+Transport schedules,Pending,Trip Itinerary & Documents
+Guidebook / Maps,Pending,Trip Itinerary & Documents
+Travel lock for bags,Pending,Security & Safety
+Emergency numbers,Pending,Security & Safety
+Compass,Pending,General Travel Essentials
+Headphones,Completed,

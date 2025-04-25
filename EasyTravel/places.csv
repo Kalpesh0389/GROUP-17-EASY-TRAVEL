@@ -1,0 +1,38 @@
+Place,Country,State,Ocean,Forest,Hills,Desert,Heritage
+Goa Beach,India,Goa,1,0,0,0,1
+Gir Forest,India,Gujarat,0,1,0,0,0
+Ajanta Caves,India,Maharashtra,0,0,0,0,1
+Ellora Caves,India,Maharashtra,0,0,0,0,1
+Mahabaleshwar,India,Maharashtra,0,0,1,0,0
+Marine Drive,India,Maharashtra,1,0,0,0,0
+Rann of Kutch,India,Gujarat,0,0,0,1,1
+Jaisalmer,India,Rajasthan,0,0,0,1,1
+Mount Abu,India,Rajasthan,0,0,1,1,0
+Sundarbans,India,West Bengal,0,1,0,0,0
+Darjeeling,India,West Bengal,0,0,1,0,0
+Kumarakom,India,Kerala,1,1,0,0,0
+Alleppey,India,Kerala,1,1,0,0,0
+Munnar,India,Kerala,0,1,1,0,0
+Pondicherry,India,Tamil Nadu,1,0,0,0,1
+Rameswaram,India,Tamil Nadu,1,0,0,0,1
+Ooty,India,Tamil Nadu,0,1,1,0,0
+Coorg,India,Karnataka,0,1,1,0,0
+Hampi,India,Karnataka,0,0,0,0,1
+Varanasi,India,Uttar Pradesh,0,0,0,0,1
+Agra,India,Uttar Pradesh,0,0,0,0,1
+Ranthambore,India,Rajasthan,0,1,0,0,1
+Jim Corbett,India,Uttarakhand,0,1,0,0,0
+Nainital,India,Uttarakhand,0,0,1,0,0
+Mussoorie,India,Uttarakhand,0,0,1,0,0
+Tawang,India,Arunachal Pradesh,0,0,1,0,0
+Shillong,India,Meghalaya,0,1,1,0,0
+Cherrapunji,India,Meghalaya,0,1,1,0,0
+Grand Canyon,USA,Arizona,0,0,1,1,0
+Miami Beach,USA,Florida,1,0,0,0,0
+Niagara Falls,Canada,Ontario,1,1,1,0,0
+CN Tower,Canada,Ontario,0,0,0,0,1
+Banff,Canada,Alberta,0,1,1,0,0
+Bondi Beach,Australia,New South Wales,1,0,0,0,0
+Great Barrier Reef,Australia,Queensland,1,0,0,0,1
+Uluru,Australia,Northern Territory,0,0,0,1,1
+Blue Mountains,Australia,New South Wales,0,1,1,0,0
